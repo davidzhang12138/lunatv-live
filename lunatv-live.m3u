@@ -51,10 +51,16 @@ http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="电影",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 group-title="电影",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 group-title="电影",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 group-title="娱乐",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 group-title="娱乐",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="娱乐",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 group-title="娱乐",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="娱乐",TVBS-Asia (1080p)
@@ -115,14 +121,14 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="其他",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 group-title="其他",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 group-title="其他",Guangdong Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 #EXTINF:-1 group-title="其他",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="其他",LLBN TV Chinese (480p)
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-#EXTINF:-1 group-title="其他",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 group-title="其他",VoA TV China (1080p)
