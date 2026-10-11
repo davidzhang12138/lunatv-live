@@ -3,6 +3,8 @@
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 group-title="综合",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="综合",CCTV-4K HD (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 group-title="综合",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 group-title="综合",Dali TV (720p)
