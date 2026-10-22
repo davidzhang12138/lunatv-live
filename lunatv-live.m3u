@@ -11,6 +11,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 group-title="综合",Hebei TV (2160p)
 https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 group-title="综合",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 group-title="综合",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 group-title="综合",QTV-4
