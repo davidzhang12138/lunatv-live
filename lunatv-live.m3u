@@ -109,6 +109,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="文化",CCTV-8 (720p)
 http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="文化",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 group-title="文化",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 group-title="经典",CCTV-Nostalgia Theater (1080p)
@@ -175,7 +177,5 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="教育户外",CCTV-17 HD (1080p)
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="综合旅游",Guangxi Variety & Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="少儿生活",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
