@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="综合",Baicheng TV [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="综合",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="综合",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 group-title="综合",Dali TV (720p)
@@ -13,12 +15,18 @@ https://event.pull.hebtv.com/live/live101.m3u8
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 group-title="综合",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="综合",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="综合",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="综合",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 group-title="综合",TV BRICS Chinese (1080p)
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 group-title="综合",Taiwan Indigenous TV (720p)
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="综合",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="新闻",Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 group-title="新闻",CCTV+ 1 (600p) [Not 24/7]
@@ -47,8 +55,12 @@ http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="电影",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 group-title="电影",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 group-title="娱乐",Asian Drama (1080p)
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 group-title="娱乐",CCTV-3 (720p)
+http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="娱乐",Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 group-title="娱乐",Pet Club TV (1080p)
@@ -77,6 +89,8 @@ http://74.91.26.218:82/live/cctv15hd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 group-title="生活",CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="生活",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 group-title="生活",CCTV-Women's Fashion SD (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 group-title="生活",QTV-2
@@ -85,6 +99,12 @@ http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="教育",CCTV-7 (720p)
 http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="教育",CCTV-World Geography SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="财经",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="文化",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="文化",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 group-title="文化",Lanzhou Culture & Tourism Channel
@@ -95,14 +115,10 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 group-title="其他",Bread TV (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="其他",CCTV-2 (720p)
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="其他",CCTV-3 (720p)
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="其他",CCTV-8 (720p)
-http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="其他",CCTV-8K HD (1080p)
 http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="其他",CCTV-Culture of Quality SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 group-title="其他",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 group-title="其他",CGTN Documentary (1080p)
@@ -129,10 +145,10 @@ http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="其他",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 group-title="其他",RTHK TV 31 (1080p) [Geo-blocked]
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 group-title="其他",TV BRICS Chinese (1080p)
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 group-title="其他",ViuTV (1080i)
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="其他",VoA TV China (1080p)
@@ -149,6 +165,8 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 group-title="其他",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+#EXTINF:-1 group-title="其他",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 group-title="其他",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="宗教",ABN China (720p)
