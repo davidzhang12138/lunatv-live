@@ -11,12 +11,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 group-title="综合",Hebei TV (2160p)
 https://event.pull.hebtv.com/live/live101.m3u8
-#EXTINF:-1 group-title="综合",Hunan Economy Channel
-https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 group-title="综合",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
-#EXTINF:-1 group-title="综合",NTD TV Asia-Pacific
-https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="综合",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="综合",Siping TV
@@ -137,8 +133,6 @@ http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 group-title="其他",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 group-title="其他",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 group-title="其他",ViuTV (1080i)
