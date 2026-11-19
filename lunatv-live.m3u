@@ -57,8 +57,6 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="娱乐",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="娱乐",TVBS-Asia (1080p)
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+ (1080p)
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 group-title="体育",CCTV-Billiards (1080p)
@@ -87,8 +85,6 @@ http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 group-title="生活",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:-1 group-title="教育",CCTV-10 (720p)
-http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="教育",CCTV-7 (720p)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="教育",CCTV-World Geography SD (1080p)
@@ -107,6 +103,8 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 group-title="其他",Bread TV (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="其他",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="其他",CCTV-8K HD (1080p)
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 group-title="其他",CCTV-Culture of Quality SD (1080p)
@@ -137,6 +135,8 @@ http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="其他",TVBS-Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="其他",ViuTV (1080i)
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="其他",VoA TV China (1080p)
@@ -149,8 +149,6 @@ http://110.153.180.106:55555/out_2/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 group-title="其他",Xizang TV Chinese
-https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 group-title="其他",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 #EXTINF:-1 group-title="其他",Yichang Sanxia Travel & Life Channel
